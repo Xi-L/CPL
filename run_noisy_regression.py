@@ -1,5 +1,5 @@
 """
-Continuation Path Learning (PSL) for Noisy Regression
+Continuation Path Learning (CPL) for Noisy Regression
 """
 import torch
 

@@ -1,5 +1,5 @@
 """
-Continuation Path Learning (PSL) for Non-convex Optimization
+Continuation Path Learning (CPL) for Non-convex Optimization
 """
 import torch
 

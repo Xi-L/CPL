@@ -1,5 +1,5 @@
 """
-A simple FC Pareto Set model.
+A simple FC Continuation Path model.
 """
 
 import torch
