@@ -14,7 +14,7 @@ The code is mainly designed to be simple and readable, it contains:
 
 If you find our work is helpful to your research, please cite our paper:
 ```
-@inproceedings{linpareto,
+@inproceedings{lin2023continuation,
   title={Continuation Path Learning for Homotopy Optimization},
   author={Lin, Xi and Yang, Zhiyuan and Zhang, Xiaoyuan and Zhang, Qingfu},
   booktitle={International Conference on Machine Learning},
