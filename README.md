@@ -7,7 +7,7 @@ The code is mainly designed to be simple and readable, it contains:
 - <code>run_nonconvex_opt.py</code> is a ~130-line script to run the Continuation Path Learning (CPL) algorithm for nonconvex optimization;
 - <code>run_noisy_regression.py</code> is a ~70-line script to run the Continuation Path Learning (CPL) algorithm for noisy regression;
 - <code>model.py</code> is a simple FC Continuation Path Model;
-- <code>function.py</code> contains all the test problems used in the paper;
+- <code>function.py</code> contains all the test problems used in the paper.
 
 
 **Reference**
