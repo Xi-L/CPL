@@ -12,7 +12,7 @@ The code is mainly designed to be simple and readable, it contains:
 
 **Reference**
 
-If you find our work is helpful to your research, please cite our paper:
+If you find our work helpful to your research, please cite our paper:
 ```
 @inproceedings{lin2023continuation,
   title={Continuation Path Learning for Homotopy Optimization},
